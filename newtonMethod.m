@@ -1,4 +1,4 @@
-% Aditya Pathak | 102115044 | Newton's Method | 22.06.2023
+% Newton's Method
 
 clc; clear all;
 
