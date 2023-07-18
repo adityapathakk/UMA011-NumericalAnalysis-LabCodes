@@ -1,4 +1,4 @@
-% Aditya Pathak | 102115044 | Fixed Point Iteration Method | 15.06.2023
+% Fixed Point Iteration Method
 
 clc; clear all;
 
