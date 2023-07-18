@@ -1,4 +1,4 @@
-% Aditya Pathak | 102115044 | Power Method | 6.07.2023
+% Power Method
 
 clc; clear all;
 
