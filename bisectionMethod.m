@@ -1,4 +1,4 @@
-% Aditya Pathak | 102115044 | Bisection Method | 15.06.2023
+% Bisection Method
 
 clc; clear all;
 
