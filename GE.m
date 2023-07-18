@@ -1,5 +1,4 @@
-% Aditya Pathak | 102115044 | Gauss Elimination | 13.07.2023
-% used as a function for Least Squares Method
+% Gauss Elimination | used as a function for Least Squares Method
 
 function x = GE(A)
 
