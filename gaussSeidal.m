@@ -1,4 +1,4 @@
-% Aditya Pathak | 102115044 | Gauss Seidal | 6.07.2023
+% Gauss Seidal
 
 clc; clear all;
 
