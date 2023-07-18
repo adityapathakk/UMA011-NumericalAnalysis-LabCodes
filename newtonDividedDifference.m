@@ -1,4 +1,4 @@
-% Aditya Pathak | 102115044 | Newton's Divided Difference | 7.07.2023
+% Newton's Divided Difference
 
 clc; clear all;
 
