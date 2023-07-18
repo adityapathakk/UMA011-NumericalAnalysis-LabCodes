@@ -1,4 +1,4 @@
-% Aditya Pathak | 102115044 | LU Decemposition | 23.06.2023
+% LU Decemposition
 
 clc; clear all;
 
