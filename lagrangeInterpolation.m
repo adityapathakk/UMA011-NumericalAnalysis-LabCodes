@@ -1,4 +1,4 @@
-% Aditya Pathak | 102115044 | Lagrange Interpolation | 7.07.2023
+% Lagrange Interpolation
 
 clc; clear all;
 
