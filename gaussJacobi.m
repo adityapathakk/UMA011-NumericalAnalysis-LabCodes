@@ -1,4 +1,4 @@
-% Aditya Pathak | 102115044 | Gauss Jacobi | 23.06.2023
+% Gauss Jacobi
 
 clc; clear all;
 
