@@ -1,4 +1,4 @@
-% Aditya Pathak | 102115044 | Least Squares Method | 13.07.2023
+% Least Squares Method
 
 clc; clear all;
 
