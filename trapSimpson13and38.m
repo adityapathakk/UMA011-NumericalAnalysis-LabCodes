@@ -1,5 +1,3 @@
-% Aditya Pathak | 102115044 | 13.07.2023
-
 clc; clear all;
 
 f = @(x) sin(x);
