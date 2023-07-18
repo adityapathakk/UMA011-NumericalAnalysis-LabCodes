@@ -1,4 +1,4 @@
-% Aditya Pathak | 102115044 | Gauss Elimination | 22.06.2023
+% Gauss Elimination
 
 clc; clear all;
 
