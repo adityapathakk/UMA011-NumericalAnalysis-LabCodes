@@ -1,4 +1,4 @@
-% Aditya Pathak | 102115044 | Secant Method | 22.06.2023
+% Secant Method
 
 clc; clear all;
 
